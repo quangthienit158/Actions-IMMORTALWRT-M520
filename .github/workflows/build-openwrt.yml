@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/quangthienit158/immortalwrt_ROOTER
+  REPO_URL: https://github.com/quangthienit158/immortalwrt-ROOTER
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
