@@ -12,7 +12,7 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/xiaoxifu64/immortalwrt
+  REPO_URL: https://github.com/quangthienit158/immortalwrt-ROOTER
   REPO_BRANCH: master
 
 on:
